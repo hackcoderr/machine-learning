@@ -1,0 +1,16 @@
+1.Linear Regression
+
+   Mean:  4.987568570294205
+   Standard deviation:  1.0694104997876468
+
+
+2.Decision Tree Regressor
+
+  Mean:  4.478270738478421
+  Standard deviation:  1.0145083383086058
+
+
+3. Random Forest Regressor
+
+   Mean:  3.3415344459151775
+   Standard deviation:  0.6516857570245694

@@ -13,7 +13,7 @@
 
 :small_orange_diamond: Titanic
 
-:small_orange_diamond: House Value Predictor
+:small_orange_diamond: [**House Value Predictor**](https://github.com/hackcoderr/Machine-Learning/tree/main/House-Price-Predictor) : *This is machine learning project which is made to a prediction for a House Production Company. Using this Machine Learning Project, Company can see his profit and also make a decision about which house should buy or sell at how much prices.*
 
 #
 :loudspeaker:

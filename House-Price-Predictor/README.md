@@ -1,6 +1,6 @@
 ## House-Price-Predictor
 <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/01/housing-price-prediction.jpg" width="1500" height="500" alt=""> 
-This is machine learning project which is made to a prediction for a House Production Company. Using this Machine Learning Project Company can see his profit and also make a decision about which house should buy or sell at how many prices.
+This is machine learning project which is made to a prediction for a House Production Company. Using this Machine Learning Project, Company can see his profit and also make a decision about which house should buy or sell at how much prices.
 
 ---
 ### Setup Detalis

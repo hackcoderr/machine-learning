@@ -1,6 +1,5 @@
 # :sparkles: Machine-Learning :sparkles:
 
-:beginner:
 
 <img src="https://github.com/hackcoderr/images/blob/master/ml.jpeg" width="1500" height="700" alt=""> 
 

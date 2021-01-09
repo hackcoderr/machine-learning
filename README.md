@@ -1,7 +1,7 @@
 # :sparkles: Machine-Learning :sparkles:
 
 
-<img src="https://github.com/hackcoderr/images/blob/master/ml.jpeg" width="1500" height="700" alt=""> 
+<img src="https://github.com/hackcoderr/images/blob/master/ml.png" width="1500" height="700" alt=""> 
 
 ### :books: This repository is made for having all concepts, codes, and projects related to Machine Learning
 
